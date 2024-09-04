@@ -58,5 +58,5 @@ Pour une utilisation en production, il est fortement recommandé de gérer les r
 
 ## Ressources supplémentaires
 
-- (Documentation OpenAI API)[https://beta.openai.com/docs/]
-- (Documentation ViteJS)[https://vitejs.dev/] 
+- [Documentation OpenAI API](https://beta.openai.com/docs/)
+- [Documentation ViteJS](https://vitejs.dev/) 
