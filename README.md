@@ -41,6 +41,10 @@ Ouvrez le fichier main.js et remplacez la ligne suivante par votre propre clé A
     });
 ```
 
+### .env
+Dupliquez le fichier `.env.exemple`
+renomez le `.env` et rajoutez à l'interieur votre api key openai.
+
 ### Démarrer le projet
 
 Une fois l'installation terminée, lancez le serveur de développement avec la commande suivante :
