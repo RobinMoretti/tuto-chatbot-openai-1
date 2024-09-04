@@ -1,6 +1,6 @@
 # Chatbot avec l'API OpenAI
 
-Ce projet est un exemple simple d'implémentation d'un chatbot en utilisant l'API OpenAI et le bundler ViteJS. Il permet d'envoyer des messages à l'API et de recevoir des réponses en temps réel via une interface web.
+Ce projet est un exemple simple d'implémentation d'un chatbot en utilisant l'API OpenAI et le bundler ViteJS pour illustrer [un tutoriel ici](https://robinmoretti.eu/comment-creer-un-chatbot-avec-lapi-openai-non-securise-pour-la-production-part-1/). Il permet d'envoyer des messages à l'API et de recevoir des réponses en temps réel via une interface web.
 
 > ⚠️ Important : Ce projet n'est pas sécurisé pour une mise en production. Il expose la clé API OpenAI dans le frontend, ce qui peut représenter un risque de sécurité. Utilisez-le uniquement à des fins d'apprentissage ou en local.
 
